@@ -6,7 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Button variant="contained" color="primary">
+      <Button variant="contained" color="secondary">
         Primary
       </Button>
     </div>
